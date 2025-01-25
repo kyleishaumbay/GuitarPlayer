@@ -1,2 +1,2 @@
 # GuitarPlayer
-A virtual guitar using the Karplus-Strong algorithm using Python virtual environment. Using a computer keyboard, when a key is pressed, serving as a guitar string, it plays a note.
+A virtual guitar implemented using the Karplus-Strong algorithm in a Python virtual environment. When a key is pressed on the computer keyboard, it simulates a guitar string and plays the corresponding note.
